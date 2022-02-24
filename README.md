@@ -2,9 +2,9 @@
 <table>
 <tr>
   <td valign="center">
-    🌱 I am currently learning Astro and also interested in App Development.<br>
-    🎯 My Goal is to Contribute to as many READMEs for Minecraft clients as possible.<br>
-    ✨ I love to create different types of GUIs for my website.
+    🌱 I am currently learning Astro and also interested in App Development.<br><br>
+    🎯 My Goal is to Contribute to as many READMEs for Minecraft clients as possible.<br><br>
+    ✨ I love to create different types of GUIs for my website.<br>
 <td >
   <a href="https://app.daily.dev/arinj"><img src="https://api.daily.dev/devcards/048c3447367747ef8d02c8bde938537e.png?r=9id" width="400" alt="Arinjay Jayanth's Dev Card"/></a>
   </td>
